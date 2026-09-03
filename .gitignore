@@ -1,0 +1,17 @@
+# Virtual environments (pip/venv fallback path from the README)
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Claude Code session state
+.claude/
